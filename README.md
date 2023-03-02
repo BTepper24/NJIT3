@@ -1,19 +1,12 @@
-The initial start of a Movie Gallery that lists various movie titles and metadata on the screen. Using Vue.js, and no jQuery, create a working Movie Gallery as described on your assignment.
+The initial start of a functioning Photo Gallery. 
 
-Make sure to track all your changes using good commit messages (http://chris.beams.io/posts/git-commit/).
+Some HTML, CSS, and Javascript have already been created. 
+Using jQuery, position the necessary elements to make the application look like the info/finished_gallery.png.
 
-For the project, you will be editing:
-/index.html
-/site.js
-/style.css
+Leave the index.php file alone. It is used to make sure your Heroku server deploys correctly with PHP functionality and also  automatically redirects visitors to index.html.
 
-You will also be adding files (poster images) to:
-/img/
 
-You will also be adding 3 additional movies to:
-/movies.json
+There are several JSON files you can use for your gallery for testing:
 
-There are example images in:
-/examples/
-
-Leave the index.php file alone. It is used to make sure your Heroku server deploys correctly with PHP functionality and also automatically redirects visitors to index.html.
+images.json: default image gallery of different places around the world. Uses local image files.
+images-short.json: a image gallery that can be used for testing.
