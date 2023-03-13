@@ -1,5 +1,50 @@
 [
       {
+            "title": "Despicable Me",
+            "iscore": 8.8,
+            "rating": "PG",
+            "runtime": 103,
+            "released": [2010, 7, 9],
+            "country": "USA",
+            "posters": ["img/DEs1.png", "img/Des2.png", "img/Des3.png"],
+            "imdb": "http://www.imdb.com/title/tt1323594/",
+            "website": "https://www.facebook.com/DespicableMe/photos/",
+            "likes": 403,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+      {
+            "title": "Home Alone",
+            "iscore": 9.1,
+            "rating": "PG",
+            "runtime": 142,
+            "released": [1990, 11, 16],
+            "country": "USA",
+            "posters": ["img/homeAlone1.png", "img/homeAlone2.png"],
+            "imdb": "https://www.imdb.com/title/tt0099785/",
+            "website": "https://www.facebook.com/HomeAloneMovie/",
+            "likes": 5000,
+            "dislikes": 2,
+            "posterindex": 0
+      },
+      {
+            "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (Japan)",
+            "iscore": 9.8,
+            "rating": "R",
+            "runtime": 117,
+            "released": [1994, 10, 14],
+            "country": "Japan",
+            "posters": ["img/mugen1.png", "img/mugen2.png", "img/mugen3.png"],
+            "imdb": "https://www.imdb.com/title/tt11032374/",
+            "website": "https://www.facebook.com/DemonSlayer.anime/videos/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-english-dub-available-now-on/577594989910442/",
+            "likes": 9999,
+            "dislikes": 0,
+            "posterindex": 0
+      },
+      
+      
+      
+      {
             "title": "The Shawshank Redemption",
             "iscore": 9.3,
             "rating": "R",
